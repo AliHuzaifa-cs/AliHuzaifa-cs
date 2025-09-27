@@ -1,6 +1,8 @@
 # Hi there 👋, I'm Ali Huzaifa
 
-🎓 Computer Science Student | 💻 Aspiring Data Scientist | 🤖 Machine Learning Enthusiast
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Banner" width="900"/>
+</p>
 
 ---
 
@@ -26,21 +28,12 @@
 
 ---
 
-## 📊 GitHub Analytics
+### 🔭 Pinned Projects
+> (Replace these with your actual project links and short 1-line descriptions)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AliHuzaifa-cs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHuzaifa-cs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHuzaifa-cs&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHuzaifa-cs&theme=tokyo-night"/>
-</p>
-
+- [Project A](https://github.com/AliHuzaifa-cs/project-a) — Short description of what it does (e.g., EDA + ML model for ...)
+- [Project B](https://github.com/AliHuzaifa-cs/project-b) — Short description (e.g., Web app with Flask + ML)
+- [Notebooks](https://github.com/AliHuzaifa-cs/notebooks) — Collection of Kaggle / ML notebooks
 
 ---
 
@@ -68,4 +61,3 @@
 - 📊 Build impactful data-driven projects  
 - 🌍 Contribute to open-source DS/ML repositories  
 - 🎓 Complete ML/DL certifications  
-
