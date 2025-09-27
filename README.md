@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Ali Huzaifa
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Banner" width="900"/>
+  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding Banner" width="750"/>
 </p>
 
 ---
@@ -25,15 +25,6 @@
 ![Seaborn](https://img.shields.io/badge/-Seaborn-5386E4?style=for-the-badge)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git)
-
----
-
-### 🔭 Pinned Projects
-> (Replace these with your actual project links and short 1-line descriptions)
-
-- [Project A](https://github.com/AliHuzaifa-cs/project-a) — Short description of what it does (e.g., EDA + ML model for ...)
-- [Project B](https://github.com/AliHuzaifa-cs/project-b) — Short description (e.g., Web app with Flask + ML)
-- [Notebooks](https://github.com/AliHuzaifa-cs/notebooks) — Collection of Kaggle / ML notebooks
 
 ---
 
