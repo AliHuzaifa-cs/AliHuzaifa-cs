@@ -26,18 +26,21 @@
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Analytics
+
 <p align="center">
-  <!-- Main stats -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=AliHuzaifa-cs&show_icons=true&theme=radical&hide_border=true"
-    width="48%" />
-  
-  <!-- Streak chart -->
-  <img
-    src="https://streak-stats.demolab.com/?user=AliHuzaifa-cs&theme=radical&hide_border=true"
-    width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AliHuzaifa-cs&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliHuzaifa-cs&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AliHuzaifa-cs&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AliHuzaifa-cs&theme=tokyo-night"/>
+</p>
+
 
 ---
 
